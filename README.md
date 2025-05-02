@@ -19,6 +19,9 @@ Le dépôt est structuré comme suit :
 📁 entrainement et évaluation du modéle : notebooks et scripts d'entraînement/test.
 
 Réalisé dans le cadre de mon projet de fin d'études par :
+
 Raed Ben Aissa
+
 Année universitaire : 2024–2025
+
 Encadré par : LT COL Mohamed Hachemi Jeridi et DR Mouna Azaiz
